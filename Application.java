@@ -1,3 +1,7 @@
+/** 
+ * A class that applies a node to a linked list. 
+ * @author jonat 
+*/
 public class Application {
     public static void main(String[] args) {
         LinkedList<Integer> myList = new LinkedList<>();
